@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Informacion De Coronavirus</string>
+    <string name="name_hint">Ingresa tu nombre</string>
+    <string name="age_hint">Ingresa tu edad</string>
+    <string name="button_virus_text">Virus</string>
+    <string name="button_sintomas_text">Sintomas</string>
+    <string name="button_indicaciones_text">Indicaciones</string>
+    <string name="info_comment">Escribe tu comentario</string>
+    <string name="comment_button_text">Comentario</string>
+</resources>
